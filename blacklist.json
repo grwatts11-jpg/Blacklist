@@ -1,1 +1,10 @@
-[{"UserId":12345678,"Reason":"RemoteEvent 2"}]
+[
+  {
+    "UserId": 12345678,
+    "Reason": "RemoteEvent 2"
+  },
+  {
+    "UserId": 123456,
+    "Reason": "Cheating"
+  }
+]
