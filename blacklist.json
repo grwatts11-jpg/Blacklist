@@ -10,5 +10,9 @@
   {
     "UserId": 123456,
     "Reason": "Cheating1"
+  },
+  {
+    "UserId": 123456,
+    "Reason": "Cheating"
   }
 ]
