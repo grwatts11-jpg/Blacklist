@@ -1,1 +1,6 @@
-
+[
+  {
+    "UserId": 123456,
+    "Reason": "Cheating"
+  }
+]
