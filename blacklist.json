@@ -6,5 +6,10 @@
   "4272785131": {
     "Reason": "Cheating",
     "BannedBy": "NOXGUARD"
+  },
+  "Cheating": {
+    "Reason": 4272785131,
+    "BannedBy": "NOXGUARD",
+    "Userid": "Name"
   }
 }
